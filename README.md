@@ -5,15 +5,18 @@
 This project analyzes customer credit card data to generate meaningful insights on spending behavior, revenue trends, and customer segmentation using Power BI.
 
 🎯 Objective
+
 Understand customer spending patterns
 Analyze revenue and interest generation
 Identify high-value customer segments
 Support data-driven business decisions
 
 🛠️ Tools & Technologies
+
 Power BI
 
 📈 Key KPIs
+
 Total Revenue: 55M
 Total Transactions Amount: 45M
 Total Interest Earned: 8M
