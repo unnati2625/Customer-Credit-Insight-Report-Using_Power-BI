@@ -18,8 +18,11 @@ Power BI
 📈 Key KPIs
 
 Total Revenue: 55M
+
 Total Transactions Amount: 45M
+
 Total Interest Earned: 8M
+
 Total Customers: 656K
 
 📊 Business Impact
